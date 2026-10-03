@@ -1,0 +1,455 @@
+{
+  "base": {
+    "100": {
+      "experiments": [
+        "all_but_angry_100 -> angry",
+        "all_but_childlike_100 -> childlike",
+        "all_but_depressed_100 -> depressed",
+        "all_but_neutral_100 -> neutral",
+        "all_but_old_100 -> old",
+        "all_but_proud_100 -> proud",
+        "all_but_strutting_100 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 23.16973066329956
+    },
+    "25": {
+      "experiments": [
+        "all_but_angry_25 -> angry",
+        "all_but_childlike_25 -> childlike",
+        "all_but_depressed_25 -> depressed",
+        "all_but_neutral_25 -> neutral",
+        "all_but_old_25 -> old",
+        "all_but_proud_25 -> proud",
+        "all_but_strutting_25 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 6.12721061706543
+    },
+    "50": {
+      "experiments": [
+        "all_but_angry_50 -> angry",
+        "all_but_childlike_50 -> childlike",
+        "all_but_depressed_50 -> depressed",
+        "all_but_neutral_50 -> neutral",
+        "all_but_old_50 -> old",
+        "all_but_proud_50 -> proud",
+        "all_but_strutting_50 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 10.370121479034424
+    },
+    "75": {
+      "experiments": [
+        "all_but_angry_75 -> angry",
+        "all_but_childlike_75 -> childlike",
+        "all_but_depressed_75 -> depressed",
+        "all_but_neutral_75 -> neutral",
+        "all_but_old_75 -> old",
+        "all_but_proud_75 -> proud",
+        "all_but_strutting_75 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 15.0698983669281
+    }
+  },
+  "CCVAE": {
+    "100": {
+      "experiments": [
+        "all_but_angry_100 -> angry",
+        "all_but_childlike_100 -> childlike",
+        "all_but_depressed_100 -> depressed",
+        "all_but_neutral_100 -> neutral",
+        "all_but_old_100 -> old",
+        "all_but_proud_100 -> proud",
+        "all_but_strutting_100 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 128.1208291053772
+    },
+    "25": {
+      "experiments": [
+        "all_but_angry_25 -> angry",
+        "all_but_childlike_25 -> childlike",
+        "all_but_depressed_25 -> depressed",
+        "all_but_neutral_25 -> neutral",
+        "all_but_old_25 -> old",
+        "all_but_proud_25 -> proud",
+        "all_but_strutting_25 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 32.35739612579346
+    },
+    "50": {
+      "experiments": [
+        "all_but_angry_50 -> angry",
+        "all_but_childlike_50 -> childlike",
+        "all_but_depressed_50 -> depressed",
+        "all_but_neutral_50 -> neutral",
+        "all_but_old_50 -> old",
+        "all_but_proud_50 -> proud",
+        "all_but_strutting_50 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 62.93955421447754
+    },
+    "75": {
+      "experiments": [
+        "all_but_angry_75 -> angry",
+        "all_but_childlike_75 -> childlike",
+        "all_but_depressed_75 -> depressed",
+        "all_but_neutral_75 -> neutral",
+        "all_but_old_75 -> old",
+        "all_but_proud_75 -> proud",
+        "all_but_strutting_75 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 86.34822845458984
+    }
+  },
+  "our0": {
+    "100": {
+      "experiments": [
+        "all_but_angry_100 -> angry",
+        "all_but_childlike_100 -> childlike",
+        "all_but_depressed_100 -> depressed",
+        "all_but_neutral_100 -> neutral",
+        "all_but_old_100 -> old",
+        "all_but_proud_100 -> proud",
+        "all_but_strutting_100 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 125.31663298606873
+    },
+    "25": {
+      "experiments": [
+        "all_but_angry_25 -> angry",
+        "all_but_childlike_25 -> childlike",
+        "all_but_depressed_25 -> depressed",
+        "all_but_neutral_25 -> neutral",
+        "all_but_old_25 -> old",
+        "all_but_proud_25 -> proud",
+        "all_but_strutting_25 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 30.72756791114807
+    },
+    "50": {
+      "experiments": [
+        "all_but_angry_50 -> angry",
+        "all_but_childlike_50 -> childlike",
+        "all_but_depressed_50 -> depressed",
+        "all_but_neutral_50 -> neutral",
+        "all_but_old_50 -> old",
+        "all_but_proud_50 -> proud",
+        "all_but_strutting_50 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 60.03280425071716
+    },
+    "75": {
+      "experiments": [
+        "all_but_angry_75 -> angry",
+        "all_but_childlike_75 -> childlike",
+        "all_but_depressed_75 -> depressed",
+        "all_but_neutral_75 -> neutral",
+        "all_but_old_75 -> old",
+        "all_but_proud_75 -> proud",
+        "all_but_strutting_75 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 83.65658640861511
+    }
+  },
+  "our_GRE": {
+    "100": {
+      "experiments": [
+        "all_but_angry_100 -> angry",
+        "all_but_childlike_100 -> childlike",
+        "all_but_depressed_100 -> depressed",
+        "all_but_neutral_100 -> neutral",
+        "all_but_old_100 -> old",
+        "all_but_proud_100 -> proud",
+        "all_but_strutting_100 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 136.2888593673706
+    },
+    "25": {
+      "experiments": [
+        "all_but_angry_25 -> angry",
+        "all_but_childlike_25 -> childlike",
+        "all_but_depressed_25 -> depressed",
+        "all_but_neutral_25 -> neutral",
+        "all_but_old_25 -> old",
+        "all_but_proud_25 -> proud",
+        "all_but_strutting_25 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 34.15173888206482
+    },
+    "50": {
+      "experiments": [
+        "all_but_angry_50 -> angry",
+        "all_but_childlike_50 -> childlike",
+        "all_but_depressed_50 -> depressed",
+        "all_but_neutral_50 -> neutral",
+        "all_but_old_50 -> old",
+        "all_but_proud_50 -> proud",
+        "all_but_strutting_50 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 66.32888722419739
+    },
+    "75": {
+      "experiments": [
+        "all_but_angry_75 -> angry",
+        "all_but_childlike_75 -> childlike",
+        "all_but_depressed_75 -> depressed",
+        "all_but_neutral_75 -> neutral",
+        "all_but_old_75 -> old",
+        "all_but_proud_75 -> proud",
+        "all_but_strutting_75 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 92.12047481536865
+    }
+  },
+  "TUPL": {
+    "100": {
+      "experiments": [
+        "all_but_angry_100 -> angry",
+        "all_but_childlike_100 -> childlike",
+        "all_but_depressed_100 -> depressed",
+        "all_but_neutral_100 -> neutral",
+        "all_but_old_100 -> old",
+        "all_but_proud_100 -> proud",
+        "all_but_strutting_100 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 49.14627242088318
+    },
+    "25": {
+      "experiments": [
+        "all_but_angry_25 -> angry",
+        "all_but_childlike_25 -> childlike",
+        "all_but_depressed_25 -> depressed",
+        "all_but_neutral_25 -> neutral",
+        "all_but_old_25 -> old",
+        "all_but_proud_25 -> proud",
+        "all_but_strutting_25 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 41.01495027542114
+    },
+    "50": {
+      "experiments": [
+        "all_but_angry_50 -> angry",
+        "all_but_childlike_50 -> childlike",
+        "all_but_depressed_50 -> depressed",
+        "all_but_neutral_50 -> neutral",
+        "all_but_old_50 -> old",
+        "all_but_proud_50 -> proud",
+        "all_but_strutting_50 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 41.59990191459656
+    },
+    "75": {
+      "experiments": [
+        "all_but_angry_75 -> angry",
+        "all_but_childlike_75 -> childlike",
+        "all_but_depressed_75 -> depressed",
+        "all_but_neutral_75 -> neutral",
+        "all_but_old_75 -> old",
+        "all_but_proud_75 -> proud",
+        "all_but_strutting_75 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 41.04197645187378
+    }
+  },
+  "our_TUPL_real_plus_src2tgt": {
+    "100": {
+      "experiments": [
+        "all_but_angry_100 -> angry",
+        "all_but_childlike_100 -> childlike",
+        "all_but_depressed_100 -> depressed",
+        "all_but_neutral_100 -> neutral",
+        "all_but_old_100 -> old",
+        "all_but_proud_100 -> proud",
+        "all_but_strutting_100 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 139.92530488967896
+    },
+    "25": {
+      "experiments": [
+        "all_but_angry_25 -> angry",
+        "all_but_childlike_25 -> childlike",
+        "all_but_depressed_25 -> depressed",
+        "all_but_neutral_25 -> neutral",
+        "all_but_old_25 -> old",
+        "all_but_proud_25 -> proud",
+        "all_but_strutting_25 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 63.03911781311035
+    },
+    "50": {
+      "experiments": [
+        "all_but_angry_50 -> angry",
+        "all_but_childlike_50 -> childlike",
+        "all_but_depressed_50 -> depressed",
+        "all_but_neutral_50 -> neutral",
+        "all_but_old_50 -> old",
+        "all_but_proud_50 -> proud",
+        "all_but_strutting_50 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 83.90283560752869
+    }
+  },
+  "our_TUPL_real_plus_src2tgt_unseen": {
+    "100": {
+      "experiments": [
+        "all_but_angry_100 -> angry",
+        "all_but_childlike_100 -> childlike",
+        "all_but_depressed_100 -> depressed",
+        "all_but_neutral_100 -> neutral",
+        "all_but_old_100 -> old",
+        "all_but_proud_100 -> proud",
+        "all_but_strutting_100 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 137.43165969848633
+    },
+    "25": {
+      "experiments": [
+        "all_but_angry_25 -> angry",
+        "all_but_childlike_25 -> childlike",
+        "all_but_depressed_25 -> depressed",
+        "all_but_neutral_25 -> neutral",
+        "all_but_old_25 -> old",
+        "all_but_proud_25 -> proud",
+        "all_but_strutting_25 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 63.10803580284119
+    },
+    "50": {
+      "experiments": [
+        "all_but_angry_50 -> angry",
+        "all_but_childlike_50 -> childlike",
+        "all_but_depressed_50 -> depressed",
+        "all_but_neutral_50 -> neutral",
+        "all_but_old_50 -> old",
+        "all_but_proud_50 -> proud",
+        "all_but_strutting_50 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 84.27755308151245
+    }
+  },
+  "our_TUPL_interp_src2tgt": {
+    "100": {
+      "experiments": [
+        "all_but_angry_100 -> angry",
+        "all_but_childlike_100 -> childlike",
+        "all_but_depressed_100 -> depressed",
+        "all_but_neutral_100 -> neutral",
+        "all_but_old_100 -> old",
+        "all_but_proud_100 -> proud",
+        "all_but_strutting_100 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 137.3049750328064
+    },
+    "25": {
+      "experiments": [
+        "all_but_angry_25 -> angry",
+        "all_but_childlike_25 -> childlike",
+        "all_but_depressed_25 -> depressed",
+        "all_but_neutral_25 -> neutral",
+        "all_but_old_25 -> old",
+        "all_but_proud_25 -> proud",
+        "all_but_strutting_25 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 62.699944496154785
+    }
+  },
+  "VisTA": {
+    "100": {
+      "experiments": [
+        "all_but_angry_100 -> angry",
+        "all_but_childlike_100 -> childlike",
+        "all_but_depressed_100 -> depressed",
+        "all_but_neutral_100 -> neutral",
+        "all_but_old_100 -> old",
+        "all_but_proud_100 -> proud",
+        "all_but_strutting_100 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 21570.6605219841
+    }
+  }
+}
