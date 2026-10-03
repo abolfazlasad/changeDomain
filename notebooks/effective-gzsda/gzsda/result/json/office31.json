@@ -15,7 +15,15 @@
     "W -> A": "Seen:     83.23 \u00b1 1.57\nUnseen:   60.25 \u00b1 1.93\nH-mean:   69.73 \u00b1 0.91",
     "W -> D": "Seen:     98.34 \u00b1 0.30\nUnseen:   99.30 \u00b1 0.30\nH-mean:   98.82 \u00b1 0.11"
   },
-  "our0": {
+  "our_dc": {
+    "A -> D": "Seen:     87.21 \u00b1 2.40\nUnseen:   84.31 \u00b1 2.63\nH-mean:   85.52 \u00b1 1.39",
+    "A -> W": "Seen:     87.45 \u00b1 1.23\nUnseen:   82.80 \u00b1 1.49\nH-mean:   85.01 \u00b1 0.85",
+    "D -> A": "Seen:     83.71 \u00b1 1.52\nUnseen:   58.40 \u00b1 1.49\nH-mean:   68.68 \u00b1 0.63",
+    "D -> W": "Seen:     97.27 \u00b1 0.45\nUnseen:   95.34 \u00b1 1.17\nH-mean:   96.27 \u00b1 0.43",
+    "W -> A": "Seen:     83.39 \u00b1 1.62\nUnseen:   60.35 \u00b1 2.28\nH-mean:   69.81 \u00b1 1.05",
+    "W -> D": "Seen:     98.23 \u00b1 0.34\nUnseen:   99.35 \u00b1 0.20\nH-mean:   98.78 \u00b1 0.17"
+  },
+  "our_tr": {
     "A -> D": "Seen:     87.26 \u00b1 2.34\nUnseen:   88.32 \u00b1 2.05\nH-mean:   87.63 \u00b1 1.19",
     "A -> W": "Seen:     85.32 \u00b1 1.23\nUnseen:   82.57 \u00b1 2.36\nH-mean:   83.79 \u00b1 0.94",
     "D -> A": "Seen:     80.97 \u00b1 1.59\nUnseen:   63.79 \u00b1 1.96\nH-mean:   71.18 \u00b1 0.61",
@@ -23,7 +31,7 @@
     "W -> A": "Seen:     80.56 \u00b1 1.78\nUnseen:   62.61 \u00b1 1.88\nH-mean:   70.28 \u00b1 0.59",
     "W -> D": "Seen:     97.66 \u00b1 0.38\nUnseen:   99.76 \u00b1 0.15\nH-mean:   98.70 \u00b1 0.16"
   },
-  "our_GRE": {
+  "our_dc_tr": {
     "A -> D": "Seen:     85.60 \u00b1 2.53\nUnseen:   85.66 \u00b1 2.33\nH-mean:   85.44 \u00b1 1.39",
     "A -> W": "Seen:     85.19 \u00b1 1.30\nUnseen:   83.15 \u00b1 1.38\nH-mean:   84.10 \u00b1 0.81",
     "D -> A": "Seen:     81.08 \u00b1 1.55\nUnseen:   63.30 \u00b1 1.72\nH-mean:   70.95 \u00b1 0.53",

@@ -123,7 +123,69 @@
       "total_time": 86.34822845458984
     }
   },
-  "our0": {
+  "our_dc": {
+    "100": {
+      "experiments": [
+        "all_but_angry_100 -> angry",
+        "all_but_childlike_100 -> childlike",
+        "all_but_depressed_100 -> depressed",
+        "all_but_neutral_100 -> neutral",
+        "all_but_old_100 -> old",
+        "all_but_proud_100 -> proud",
+        "all_but_strutting_100 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 129.54867148399353
+    },
+    "25": {
+      "experiments": [
+        "all_but_angry_25 -> angry",
+        "all_but_childlike_25 -> childlike",
+        "all_but_depressed_25 -> depressed",
+        "all_but_neutral_25 -> neutral",
+        "all_but_old_25 -> old",
+        "all_but_proud_25 -> proud",
+        "all_but_strutting_25 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 35.916301250457764
+    },
+    "50": {
+      "experiments": [
+        "all_but_angry_50 -> angry",
+        "all_but_childlike_50 -> childlike",
+        "all_but_depressed_50 -> depressed",
+        "all_but_neutral_50 -> neutral",
+        "all_but_old_50 -> old",
+        "all_but_proud_50 -> proud",
+        "all_but_strutting_50 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 68.61434149742126
+    },
+    "75": {
+      "experiments": [
+        "all_but_angry_75 -> angry",
+        "all_but_childlike_75 -> childlike",
+        "all_but_depressed_75 -> depressed",
+        "all_but_neutral_75 -> neutral",
+        "all_but_old_75 -> old",
+        "all_but_proud_75 -> proud",
+        "all_but_strutting_75 -> strutting"
+      ],
+      "n_senario": 7,
+      "n_trial": 6,
+      "total_trial": 42,
+      "total_time": 95.24220108985901
+    }
+  },
+  "our_tr": {
     "100": {
       "experiments": [
         "all_but_angry_100 -> angry",
@@ -185,7 +247,7 @@
       "total_time": 83.65658640861511
     }
   },
-  "our_GRE": {
+  "our_dc_tr": {
     "100": {
       "experiments": [
         "all_but_angry_100 -> angry",

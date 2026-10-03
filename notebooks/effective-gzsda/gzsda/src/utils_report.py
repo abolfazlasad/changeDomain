@@ -19,6 +19,9 @@ METHOD_ORDER = (
     "CCVAE",
     "our0",
     "our_GRE",
+    "our_dc",
+    "our_tr",
+    "our_dc_tr",
     "TUPL",
     *OUR_TUPL_METHODS,
 )

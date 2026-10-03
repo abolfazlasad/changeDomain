@@ -17,7 +17,16 @@
     "all_but_proud -> proud": "Seen:     100.00 \u00b1 0.00\nUnseen:   91.97 \u00b1 2.52\nH-mean:   95.73 \u00b1 1.36",
     "all_but_strutting -> strutting": "Seen:     100.00 \u00b1 0.00\nUnseen:   63.46 \u00b1 12.30\nH-mean:   73.81 \u00b1 10.36"
   },
-  "our0": {
+  "our_dc": {
+    "all_but_angry -> angry": "Seen:     100.00 \u00b1 0.00\nUnseen:   85.17 \u00b1 4.42\nH-mean:   91.69 \u00b1 2.57",
+    "all_but_childlike -> childlike": "Seen:     95.83 \u00b1 2.08\nUnseen:   81.49 \u00b1 4.80\nH-mean:   87.51 \u00b1 2.51",
+    "all_but_depressed -> depressed": "Seen:     95.74 \u00b1 1.65\nUnseen:   71.41 \u00b1 7.63\nH-mean:   80.40 \u00b1 5.70",
+    "all_but_neutral -> neutral": "Seen:     100.00 \u00b1 0.00\nUnseen:   91.71 \u00b1 1.98\nH-mean:   95.62 \u00b1 1.09",
+    "all_but_old -> old": "Seen:     98.43 \u00b1 1.02\nUnseen:   65.56 \u00b1 6.34\nH-mean:   77.72 \u00b1 4.64",
+    "all_but_proud -> proud": "Seen:     100.00 \u00b1 0.00\nUnseen:   91.14 \u00b1 2.93\nH-mean:   95.24 \u00b1 1.61",
+    "all_but_strutting -> strutting": "Seen:     100.00 \u00b1 0.00\nUnseen:   63.09 \u00b1 12.13\nH-mean:   73.61 \u00b1 10.28"
+  },
+  "our_tr": {
     "all_but_angry -> angry": "Seen:     100.00 \u00b1 0.00\nUnseen:   94.44 \u00b1 1.67\nH-mean:   97.10 \u00b1 0.89",
     "all_but_childlike -> childlike": "Seen:     93.06 \u00b1 3.79\nUnseen:   95.36 \u00b1 0.74\nH-mean:   94.01 \u00b1 2.16",
     "all_but_depressed -> depressed": "Seen:     94.15 \u00b1 2.40\nUnseen:   91.29 \u00b1 2.69\nH-mean:   92.44 \u00b1 1.38",
@@ -26,7 +35,7 @@
     "all_but_proud -> proud": "Seen:     100.00 \u00b1 0.00\nUnseen:   96.01 \u00b1 1.38\nH-mean:   97.94 \u00b1 0.72",
     "all_but_strutting -> strutting": "Seen:     100.00 \u00b1 0.00\nUnseen:   78.99 \u00b1 8.36\nH-mean:   86.97 \u00b1 5.52"
   },
-  "our_GRE": {
+  "our_dc_tr": {
     "all_but_angry -> angry": "Seen:     99.07 \u00b1 0.93\nUnseen:   94.10 \u00b1 1.65\nH-mean:   96.48 \u00b1 1.00",
     "all_but_childlike -> childlike": "Seen:     93.06 \u00b1 3.79\nUnseen:   95.36 \u00b1 0.74\nH-mean:   94.01 \u00b1 2.16",
     "all_but_depressed -> depressed": "Seen:     94.15 \u00b1 2.40\nUnseen:   86.16 \u00b1 4.83\nH-mean:   89.34 \u00b1 2.44",
