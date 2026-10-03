@@ -1,6 +1,8 @@
 method,n_senario,n_trial,total_trial,total_time
 base,7,6,42,23.2
 CCVAE,7,6,42,128.1
+our_dc,7,6,42,129.5
+our_tr,7,6,42,125.3
 our_dc_tr,7,6,42,136.3
 TUPL,7,6,42,49.1
 our_TUPL_interp_src2tgt,7,6,42,137.3
